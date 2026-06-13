@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    background-image: url("images/background.jpg");
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#img1{
+    border-radius: 24px;
+}
+
+#a1{
+    font-size: 45px
+}
